@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="uptime.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mail_to" Type="System.String" Scope="User">
+      <Value Profile="(Default)">eric.leung@kef.com</Value>
+    </Setting>
+    <Setting Name="emji" Type="System.String" Scope="User">
+      <Value Profile="(Default)">🚨🚨🚨 eric</Value>
+    </Setting>
+    <Setting Name="TelegramToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+          Wc/QP6DpWIxfmFNz3Q55gvsu/jMToV5B3dhVOsW99bjelcP2AgxD/cOxgU9T0psh
+        </Value>
+    </Setting>
+    <Setting Name="siteUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ntx002@kef.com</Value>
+    </Setting>
+    <Setting Name="TEST" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TEST data</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

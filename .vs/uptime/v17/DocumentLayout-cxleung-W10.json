@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\prog-c\\Utilities\\uptime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D32F93E-4342-4590-8795-DE5608E8F21C}|uptime\\uptime.csproj|F:\\prog-c\\Utilities\\uptime\\uptime\\uptime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D32F93E-4342-4590-8795-DE5608E8F21C}|uptime\\uptime.csproj|solutionrelative:uptime\\uptime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D32F93E-4342-4590-8795-DE5608E8F21C}|uptime\\uptime.csproj|f:\\prog-c\\utilities\\uptime\\uptime\\uptime_misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D32F93E-4342-4590-8795-DE5608E8F21C}|uptime\\uptime.csproj|solutionrelative:uptime\\uptime_misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D32F93E-4342-4590-8795-DE5608E8F21C}|uptime\\uptime.csproj|F:\\prog-c\\Utilities\\uptime\\uptime\\uptime_handle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D32F93E-4342-4590-8795-DE5608E8F21C}|uptime\\uptime.csproj|solutionrelative:uptime\\uptime_handle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 557,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uptime_misc.cs",
+              "DocumentMoniker": "F:\\prog-c\\Utilities\\uptime\\uptime\\uptime_misc.cs",
+              "RelativeDocumentMoniker": "uptime\\uptime_misc.cs",
+              "ToolTip": "F:\\prog-c\\Utilities\\uptime\\uptime\\uptime_misc.cs",
+              "RelativeToolTip": "uptime\\uptime_misc.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwFoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-25T14:07:03.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "uptime_handle.cs",
+              "DocumentMoniker": "F:\\prog-c\\Utilities\\uptime\\uptime\\uptime_handle.cs",
+              "RelativeDocumentMoniker": "uptime\\uptime_handle.cs",
+              "ToolTip": "F:\\prog-c\\Utilities\\uptime\\uptime\\uptime_handle.cs",
+              "RelativeToolTip": "uptime\\uptime_handle.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-25T14:16:20.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "uptime.cs",
+              "DocumentMoniker": "F:\\prog-c\\Utilities\\uptime\\uptime\\uptime.cs",
+              "RelativeDocumentMoniker": "uptime\\uptime.cs",
+              "ToolTip": "F:\\prog-c\\Utilities\\uptime\\uptime\\uptime.cs",
+              "RelativeToolTip": "uptime\\uptime.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAcwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-25T14:04:48.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 152,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

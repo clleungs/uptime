@@ -1,0 +1,13 @@
+F:\prog-c\Utilities\uptime\uptime\bin\Debug\uptime.exe.config
+F:\prog-c\Utilities\uptime\uptime\bin\Debug\uptime.exe
+F:\prog-c\Utilities\uptime\uptime\bin\Debug\uptime.pdb
+F:\prog-c\Utilities\uptime\uptime\bin\Debug\getAccountKey.dll
+F:\prog-c\Utilities\uptime\uptime\bin\Debug\getAccountKey.pdb
+F:\prog-c\Utilities\uptime\uptime\obj\Debug\uptime.csproj.CoreCompileInputs.cache
+F:\prog-c\Utilities\uptime\uptime\obj\Debug\uptime.exe
+F:\prog-c\Utilities\uptime\uptime\obj\Debug\uptime.pdb
+F:\prog-c\Utilities\uptime\uptime\obj\Debug\uptime.csproj.AssemblyReference.cache
+F:\prog-c\Utilities\uptime\uptime\bin\Debug\Cgen.dll
+F:\prog-c\Utilities\uptime\uptime\bin\Debug\Cgen.pdb
+F:\prog-c\Utilities\uptime\uptime\bin\Debug\Cgen.dll.config
+F:\prog-c\Utilities\uptime\uptime\obj\Debug\uptime.csproj.Up2Date
